@@ -3,5 +3,5 @@ This is a github repository used to help TF2 and their sourcemods have more serv
 
 (NOTE: these tutorials only work for windows, no other OS's sadly)
 
-After downloading from this repository, open "tf2_install.bat" in the SteamCMD folder to install TF2 to the server files.
-Then follow the guide in this OF server setup document i modified to have less steps as those are already done for you. https://docs.google.com/document/d/1UI3B4awG9gHNt0n3zekL0bPSuYzQoojS8K936sCxpvQ/edit?usp=sharing
+After downloading from this repository, open "tf2_install.bat" after you have assigned the download location in the tf2update.txt file, then you can safely open the .bat file and install the game.
+Follow the guide in this OF server setup document i modified to have less steps. https://docs.google.com/document/d/1UI3B4awG9gHNt0n3zekL0bPSuYzQoojS8K936sCxpvQ/edit?usp=sharing
