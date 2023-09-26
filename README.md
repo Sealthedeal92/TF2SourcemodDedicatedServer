@@ -9,5 +9,7 @@ After downloading from this repository, open "tf2_install.bat" after you have as
 
 (NOTE: in the server starting script you will need to change the text followed by -game to the desired TF2 sourcemod folder's name like open_fortress, or tf2classic for example)
 
+Also keep in mind, that you may need to edit the .bat files for installing the server updates and starting your server, you should also configure "tf2update.txt & sdkupdate.txt" so you can update both tf2 and the sdk server inside of the files.
+
 Follow the guide in this server setup document i modified which was designed to have less steps. https://docs.google.com/document/d/1UI3B4awG9gHNt0n3zekL0bPSuYzQoojS8K936sCxpvQ/edit?usp=sharing
 
